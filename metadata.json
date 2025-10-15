@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Recommender",
+  "description": "An AI-powered music recommendation app that suggests playlists based on your listening habits and preferences, focusing on music from the last decade.",
+  "requestFramePermissions": []
+}
